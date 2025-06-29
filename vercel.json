@@ -14,7 +14,7 @@
     "env": {
         "APP_ENV": "local",
         "APP_DEBUG": "true",
-        "APP_URL": "http:/?utamaKarya.com",
+        "APP_URL": "http://utamaKarya.com",
         "APP_KEY": "base64:JUWb/VFnOjNlA+oTkKqucH5LFh3IG998zipUezrfjqE=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
